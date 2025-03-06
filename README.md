@@ -1,5 +1,4 @@
 # VRE_AMR-EZ_2025
-----------------------
 References and higher-quality plots for OH: AMR & EZ poster presentation (March 2025)
 
 Ashton N Sies (ans227@uregina.ca)
